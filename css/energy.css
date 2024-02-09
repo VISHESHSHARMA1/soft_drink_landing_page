@@ -1,20 +1,13 @@
-/*Code BY MH Miyazi*/
-
-
-/*Author LazyDevsOP*/
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'poppins', sans-serif;
-    /*Code BY MH Miyazi*/
 }
 
 section {
     position: relative;
     width: 100%;
-    /*Code BY MH Miyazi*/
     min-height: 100vh;
     padding: 100px;
     display: flex;
@@ -27,7 +20,6 @@ header {
     position: absolute;
     top: 0;
     left: 0;
-    /*Code BY MH Miyazi*/
     width: 100%;
     padding: 20px 100px;
     display: flex;
@@ -43,7 +35,6 @@ header .logo img {
     border: 1px solid #072564;
     border-radius: 50%;
     padding: 5px;
-    /*Code BY MH Miyazi*/
     transition: 0.5s;
 }
 
@@ -55,7 +46,6 @@ header ul {
 }
 
 header ul li {
-    /*Code BY MH Miyazi*/
     width: 100px;
     margin-right: 2px;
     background: #072564;
@@ -69,7 +59,6 @@ header ul li a {
     font-weight: 400;
     text-decoration: none;
     transition: 0.5s;
-    /*Code BY MH Miyazi*/
 }
 
 .content {
@@ -79,7 +68,6 @@ header ul li a {
     justify-content: space-between;
     align-items: center;
     transition: 0.5s;
-    /*Code BY MH Miyazi*/
 }
 
 .content .textBox {
@@ -89,7 +77,6 @@ header ul li a {
 }
 
 
-/*Code BY MH Miyazi*/
 
 .content .textBox h2 {
     color: #333;
